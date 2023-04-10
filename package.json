@@ -1,0 +1,11 @@
+{
+  "name": "waifcord",
+  "version": "1.0.0",
+  "description": "AI powered Discord bot built using Langchain.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
